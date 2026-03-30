@@ -1,18 +1,16 @@
-<!DOCTYPE html>
-<html lang = "es">
+<!<!DOCTYPE html>
+<html lang="es">
 <head>
-  <meta charset=UTF-8>
+  <meta charset="UTF-8">
   <title>Proyecto final</title>
-  <link rel="stylesheet" hrfe="style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
- <h1>suludos</h1>
- <p id="saludos mios " >Haz click para cambiar el mensaje </p>
- <button id="mi boton">cambio</button>
- <script src="script.js"></script>
- </body>
+  <h1>Saludos</h1>
+  <p id="saludo-texto">Haz click para cambiar el mensaje</p>
+  <button id="btn-cambio">Cambio</button>
+
+  <script src="script.js"></script>
+</body>
 </html>
-  
-
-
